@@ -1,3 +1,5 @@
+Documentaçção Oficial : https://github.com/web-push-libs/web-push
+
 Executar o generate.js, ele ira gerar esse código:
 
 {
